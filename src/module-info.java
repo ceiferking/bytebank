@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adm
+ *
+ */
+module bytebank {
+}
